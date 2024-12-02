@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef3b8c6b05381cc40b7072e07575bc71
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ReferenceJump: {instanceID: 0}
+  - ReferenceFall: {instanceID: 0}
+  - ScoreText: {instanceID: 0}
+  - Coin_Collected_Sound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

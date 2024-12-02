@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: faf0c74db6a81dd4f86bee651399f405
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GameplayArea: {fileID: 147915504495391533, guid: fc0c007eb40ad04409636dd1b609e587, type: 3}
+  - PlayerArea: {fileID: 147915504495391533, guid: bdbef43f92447974286cec151549a423, type: 3}
+  - BackgroundArea: {fileID: 147915504495391533, guid: 0f53eb9d53b5de74988c5fa3c884aa81, type: 3}
+  - SpawnTo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
